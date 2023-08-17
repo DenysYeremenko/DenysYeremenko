@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on the project for the portfolio [World of Cats](https://denysyeremenko.github.io/world-of-cats/)
-
-- 🌱 I’m currently learning **React Libraries & Node.js & TypeScript**
-
-- 🤝 I'm Looking for a job [Junior Frontend Developer (React.js)](https://drive.google.com/file/d/1w-zMivRq3h75OcF0udCEAjBt0Z7mbmmh/view?usp=sharing)
-
-- 💬 Ask me about **react, javascript**
+- 🤝 I'm looking for a job as a Frontend Developer (React, Vue)
 
 - 📫 How to reach me **yeremenko.den@gmail.com**
 
