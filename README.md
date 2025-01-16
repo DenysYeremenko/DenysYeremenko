@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🤝 I'm looking for a job as a Frontend Developer (React, Vue)
+- 🤝 I'm a Frontend Developer
 
 - 📫 How to reach me **yeremenko.den@gmail.com**
 
